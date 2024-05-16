@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,5478 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 291
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5c60009a3c891428c3d91467ff236d
+      internalID: 589943079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 291
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a43fd7d363e2854ca518077eda66139
+      internalID: -1106573365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 266
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0574e9bdcb98247a0bedd84d3b599e
+      internalID: 726503328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 266
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35072b02f825584cbe14ca979e0f944
+      internalID: -1017966705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 266
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c031282af9423c246899e802cf01a53d
+      internalID: -1561008175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 266
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cf1d7e27d2e5a4cba0c24cf42930a3
+      internalID: 1065307913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 268
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b714107e3bc59a24cab55ec630291f03
+      internalID: -1136547213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 268
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfe53bc971977141a37d05d8919cffc
+      internalID: 1557861101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 268
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7b8078e580978408a9ea617d9c633b
+      internalID: -1614651796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 268
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cb4585b2c6d4e4188ad7ab33d81487
+      internalID: 116032007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 268
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b85f1f928efa4409a99ccd195891e9
+      internalID: -1973212594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirhannaUp_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 266
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e799c6e0a5bfe647a286480acce2df8
+      internalID: -721438825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirhannaUp_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 266
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23f102e322adb049a0e21cb38597585
+      internalID: 389637426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirhannaDown_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 266
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ad82f7cf6ac8459ad53c64845b066
+      internalID: -1056087039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PirhannaDown_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 266
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4decfdc2cc2e2846804dd33405c46a7
+      internalID: 21334603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 266
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf466931f664dc749b086e344df501ba
+      internalID: -2123361102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 266
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6c13dd0dc5c54aa95ce0e62a9e16d
+      internalID: -287477714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 266
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae03c1d6a6db541b1db67786d163b2
+      internalID: 2145761688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 266
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e290ef20d1412469c139ad269b8ba3
+      internalID: -182009879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 266
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abaa1f7f698b174591e6a17fa574768
+      internalID: 484175323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_20
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 266
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36910abaa5331c5429726f2bdca15949
+      internalID: 1617248354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_21
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 266
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42651b7c705c1c49ac48e5448f4d5ef
+      internalID: 287519431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 266
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b43e51939d3e184a840ec4627b478fa
+      internalID: 1062090646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 266
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e8f1246184a9a4dbbf024712b87135
+      internalID: 1566019544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_24
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 266
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3113e4dd71f9af4fa558a3b25d83d17
+      internalID: 157939415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 266
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfed595ea82cef449ba39feb3957f1da
+      internalID: 2041062139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab91ed8c6e92940881493b1faea931
+      internalID: 1340516613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 260
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54801b6fdef60e40ae987669e80fa25
+      internalID: -1674589339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_Walk1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ec70b576e3a5f4d85dd9b3b546a32f
+      internalID: -1930421540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_Walk2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 235
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d85d3b2cb9be347b4a57d2065550e9
+      internalID: 1476483469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goomba_Die
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 235
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479f4cf78de39aa40b3de98ef45ebde3
+      internalID: -110756157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 235
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f63d02337f39d40ad3a49cc7d7f8fc
+      internalID: -1250867445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 235
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2c604f2957ce34db50e1d25061d577
+      internalID: 345572272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 235
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308d22a5a0d3a3145b10f4b71323b5a6
+      internalID: -1326068483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 235
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489507bbd98c9df4cb5d8c668aaa9fbf
+      internalID: 168556093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 237
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: added8d0be1c1bc428176a66e4c39749
+      internalID: -472719435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 237
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd178e00084cdb4881b673f0991c6c9
+      internalID: -1713496425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_37
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 237
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3d10a60a592e144aa7aa6818aa6570
+      internalID: -1086026863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 237
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b35fb8c68058d4da465b3760bdba18
+      internalID: -2003806688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_39
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 237
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a161eb75ebcff44469b8ee118594e4e5
+      internalID: -1297964742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 235
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aa1a1749cfcdf47afeec9d5a9ab867
+      internalID: 398450285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 235
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da29c70664f14ce45ae71353f8906f59
+      internalID: 108381985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 235
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c31a9151126b448edcc4d32a2ed42
+      internalID: -986532814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 235
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbba27380d391c44098018773b5cd067
+      internalID: -327461992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 235
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0780394267d0db24cbb6fcedea6328a9
+      internalID: -394845532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_45
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 235
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f519d5f58b81f429139648bec7236b
+      internalID: -1033847742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_46
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 235
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583caf16e7b705e41bd0fa864c0b5458
+      internalID: -690674210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_47
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 235
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315dda50159826743a3872bbbecddd6e
+      internalID: 342632834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_48
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 235
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0425c2e311e44e4eafc601dd1f32029
+      internalID: -1543119798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_49
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 235
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7df5f0ca7a5b64a901566470967cd0
+      internalID: -1103077795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_50
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 235
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4fd5a980145f04a8f865a657fd4561
+      internalID: -2071344474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 238
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa2956673db8034f937f5c983bd7753
+      internalID: 173638300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22813a505c70ad94685901ec53d63d57
+      internalID: -942879164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 218
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf93b8346373df49a18550a6eb7ed0e
+      internalID: -826064701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 219
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e043a9f6902dc49b083edaf3fb9d4a
+      internalID: -838945351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 219
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f459f4464848d424483c92f11138469e
+      internalID: -37795262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 219
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de384dd60c00d4e9c4cb9ecb21a794
+      internalID: -2112923329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 218
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b06c380aa2e9c47a4f235f55da8edc
+      internalID: 1243550680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 218
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d9c67cc2c014c46885cd2feff586a0
+      internalID: -636365710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 218
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c665345495f6b7b40935e55d82f6b15a
+      internalID: 1295577749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 218
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3323eae6012b0aa488030da71f978547
+      internalID: -242618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 218
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c527a98e22e712459d5a3ae1ff0bc39
+      internalID: -1008000077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_62
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 218
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298f19179c00bc645ac675b90b63b9be
+      internalID: -1668954294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 212
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36d0d3eb06feed45803b196d6fb5878
+      internalID: 299845547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 212
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26af219b8ae9c248896c2ef76c3cb40
+      internalID: 475407744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08429adf7dfad6744ad8a9d3dbc98228
+      internalID: 1737158718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 187
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a49c3328f87d04fb0790cc32e16670
+      internalID: -188031641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 187
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c6a0f240bd176478e756eaa736420e
+      internalID: -1128657764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 187
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f8c510eac6f5b47a5ac7303b7ba492
+      internalID: -881755787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 187
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432dda3efabaddb49b460b8d9fb41d2a
+      internalID: -885057593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 187
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fae48c84108ea4d9b00bf7aa0bbde4
+      internalID: -633376929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 187
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c228326aaf0f3ec45a35b72587beef46
+      internalID: -325455785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 189
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e49d66ec4cdde745803671901490fae
+      internalID: -1328118516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_73
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 189
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed65e77c06c89c443a487f88d61574a2
+      internalID: 933735940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 189
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d33918524c998740a28b43ec899e510
+      internalID: -1604880090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_75
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 189
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697b83d3197b5ea4f8ee5c09beb3182d
+      internalID: -1125243209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_76
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 189
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2abe9272de1ee45a9f36206912c55a
+      internalID: -1332224331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_77
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 187
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d8348ccff52f842a05b78da473ab74
+      internalID: 1638694582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_78
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 187
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27c14b476be03046a83caa5a8d898cb
+      internalID: -112544399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_79
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 187
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2223fc89cf5a74295e7fca0557e4f0
+      internalID: 1322413597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 187
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c7980a91192c54bb8c8ffa730edaef
+      internalID: 613752633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 187
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd50de0dfbb540b43953dbcd0ca3d862
+      internalID: 992241367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_82
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 187
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b0068ac485481489b2d8c2d1804071
+      internalID: 2132150666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_83
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 187
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522d750bbd853234288f99695c2e06a2
+      internalID: 1064193525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_84
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 187
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79df768fa525dcc4fbe465bf9eed58ee
+      internalID: 938540403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_85
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 187
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb9044a41067644cbc069f41064677c
+      internalID: -1125435073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_86
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 187
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add16523f586d6945a99fcf29b5b471e
+      internalID: -2092104987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_87
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 187
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa149ecf0cb4f54cb67c1cf06e8dff0
+      internalID: -476132960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_88
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 190
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f56da95d0f671d4ba485eca554589fd
+      internalID: -286607696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 170
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d83b2aba11a8a840a881b9a498381de
+      internalID: -20596604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_90
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 170
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6947c5b171c8d4ba7706b4e66231bc
+      internalID: -436766117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 171
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a37a95f2f338c47be6e590ff615505
+      internalID: 769315181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_92
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 171
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93010a81e6183f48b01bac09978cf44
+      internalID: 1445066052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_93
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 171
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df0f1ad7498424d81ba31daf2b94d2
+      internalID: -1710009941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_94
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 170
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a8963140f7b04eab4f5b02b45c009
+      internalID: 974457478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_95
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 170
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dee40ea4d34af488cd9042c55daf86
+      internalID: -1132173746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_96
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b3507d54a05a4ab9d06b00a567ace
+      internalID: 177198115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_97
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 170
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286b46b00c886974297e974bbe483596
+      internalID: -315911701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_98
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 170
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a43725fdea6e0479cdfa762ef2bbff
+      internalID: -1886641798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_99
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 170
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3aa9bcf54929a40be22dfc3faf632f
+      internalID: 199809394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 164
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec737b71fc13a44a829eff62c8f47ca
+      internalID: 1746960606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_101
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 164
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdb7afd77c785b4cba5385078242729
+      internalID: 2109105112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f1ec058abfd64458f61a80b4ab2745
+      internalID: -83818580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_103
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 139
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f92b664518ad841acb2aff1c556666
+      internalID: 2016520879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_104
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 139
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7c5ec0ea9747943be93b9804ed4653
+      internalID: 1137538730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_105
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 139
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e8349496400794ca7b582103414e48
+      internalID: 536852781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_106
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 139
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b600b1ad0e435a149864eddb6ae01e65
+      internalID: -258978332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_107
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 139
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac89ebd18cad2489415186f9372b0c
+      internalID: -392611264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_108
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 139
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a189cb8c256f44bac83430054ec0e6
+      internalID: -738543031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_109
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 141
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d85e51881669a46a6a046f9cfc3ad6
+      internalID: 1579281215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_110
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 141
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7030e84af475f304693f6f5c6e58ab69
+      internalID: 429817356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_111
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 141
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33002c40190431f41b643981f22e5aae
+      internalID: 1189931740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_112
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 141
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782a8a8fe9ac05041ac8f38b26f545ed
+      internalID: 1781408962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_113
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 141
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1647ffed28597a0428a7ab474767979a
+      internalID: -740614055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_114
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 139
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97ba646ebf9bb549b2827fc4c981f75
+      internalID: -910020823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_115
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 139
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0bce36bd38bbf40bd314025e0f5803
+      internalID: 5814766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_116
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 139
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24851d5ab8bcc443b0037248524957b
+      internalID: 769265890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_117
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 139
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e1a8409b9b7d84ab6ae7bf455694fb
+      internalID: 765888449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_118
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 139
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebebd4f902a59434dadd43545aa26fd1
+      internalID: 89498402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_119
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 139
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2fd24c6edba244e86e1cdfc2540906
+      internalID: 1051792748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_120
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 139
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3433cc3d75fd70a41b265802bcf65e08
+      internalID: -527149050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_121
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 139
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2be3a830990b6044a73dd733288790c
+      internalID: 1348283521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_122
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 139
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be67390ca620b3d45b059239bc5c5058
+      internalID: 533267247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_123
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 139
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d752d09ca9b9e714a9e042f13a209f58
+      internalID: -678815366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_124
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 139
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2e6637fb9df6641929865e5a79c045
+      internalID: 186838548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_125
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 142
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9e13a0d4beff64f877003e19f079d8
+      internalID: 375141315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcab8dd97d2622a47b52a837790ce6f1
+      internalID: -1700946870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_127
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 122
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6ab3763b478d44fbe7b940043582ff
+      internalID: -1584527001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_128
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 123
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59a13827e0ef9d43a412ef7ad78387d
+      internalID: 644434939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_129
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 123
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fb73bd05ef374439ab5b8e5e0dbe39
+      internalID: -1519069355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_130
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 123
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279c0a8cb736387409dac2b841b8f3d0
+      internalID: 1556075421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_131
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 122
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcadabfde315da4485f0bb5c815860d
+      internalID: 1137009713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_132
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 122
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e6be83846d7fb45938f10237e8fe62
+      internalID: -1740131635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_133
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76abc8182f613d241a5a19081bfd58e4
+      internalID: -220207819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_134
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 122
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f90b9e7086ffa45ac836fa23609ce9
+      internalID: -913961640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_135
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 122
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ac2c23d1bec8843877958e5d912694
+      internalID: -1948629341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_136
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 122
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fac4272ac74e144db4250fc0d851118
+      internalID: 1158489237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_137
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 116
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb57c44b66a7aa40b825cddf3484817
+      internalID: 17457063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_138
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 116
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b187e8f1d40704a4faafcec154391e22
+      internalID: 2049638852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_139
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 75
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d696a7f5f90625488936efcbf5cd6d2
+      internalID: -1036296576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_140
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 75
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c441898b804f0724f812ac7172a5a8cf
+      internalID: 2066046568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_141
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 75
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57026081aca55bf45a1bc38137ad0059
+      internalID: 331024097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_142
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 75
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe63aa0d53c2ad4a9996486a20a362d
+      internalID: -2009000842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_143
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 75
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25a9186d4088eb4a81db15df41c6c39
+      internalID: -823160742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_144
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 75
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66acbef49aca75940bc56477eb1abe99
+      internalID: 1915848913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_145
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 109
+        width: 21
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697784a388fed5b4e91407fcc8c6c30d
+      internalID: -1517476596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_146
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e371865d949b045a92a97285b2184f
+      internalID: -1501425205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_147
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 76
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3091956e4cb446e4484fe66c763b7aa3
+      internalID: 1356606656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_148
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 93
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e869bddfc3f85794096d202c1d73daed
+      internalID: -14954949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_149
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 63
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ce1845976a12c4ead2d51a8e611efd
+      internalID: 887676340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_150
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 77
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff382e53a42da084bbb7353b783a8eef
+      internalID: 281779393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_151
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 69
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c9e950b45602c438ab18f2145d69a3
+      internalID: 1073731593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_152
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 69
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c022b6f7c63238340b8a06209e1602e5
+      internalID: 783063145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_153
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 28
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f312e87aa1a09ed46bf7140a2ac700e1
+      internalID: 1724776805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_154
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b92d9e406d23e49a7c130dd3111323
+      internalID: -133389416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_155
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848145a67e5fd1346a7fd343ca6b24a8
+      internalID: 2063877837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_156
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 28
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78be7683f3bb40a43895ecfd33e713e9
+      internalID: -1589743848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_157
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 28
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba5961278a37f7419ae8f8c371abbe1
+      internalID: -751357013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_158
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 28
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94109ed000d16649bf9690c028276fb
+      internalID: -85122005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_159
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 62
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5928229e3aa7fea4c8abcadc783a55b3
+      internalID: -927299767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_160
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 58
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a287003b09f4374096643ff11bb88f7
+      internalID: 448721969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_161
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 58
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8718632281b89ab4c9f4b4c8688e2a10
+      internalID: 771293290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_162
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 58
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6223a62564c5047833eefaaf780b81
+      internalID: -1317103231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_163
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 58
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa344f15d7be50d418e895d89b29799d
+      internalID: 1318227298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_164
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 58
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0769b33452fc59448e74e26e9b33d5a
+      internalID: 2083687544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_165
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 58
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273ef76f53136a348bbf355794a55755
+      internalID: -827576698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_166
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5a0d27d64b8294793c3c5fabf1a9fa
+      internalID: -2107380198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_167
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 29
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b91d4d2a923f74a96bcc322668813d
+      internalID: 755312705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_168
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 46
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bbd12712e002d45a3c9bb2e72dc1a1
+      internalID: 1961947402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_169
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 29
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b6fabfb3494d5498bf51ca330616d6
+      internalID: -1061904411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_170
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 30
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e78b1383049884a8b55f528418b671
+      internalID: -1932625623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_171
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9295fb75aa91dca408a1ad85c61c514c
+      internalID: -1702031749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_172
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6413ac096e597647a956a13df1553f9
+      internalID: -707089946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_173
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e3ae4d4b41553498593f4e754ebb1b
+      internalID: -197040819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_174
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b984e440498da96419a8dd1663b270a9
+      internalID: 33221360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_175
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461333f27e4a7c2409fd58fc9bf13f4a
+      internalID: 1714131618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_176
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa2ad12f7e67e41bd1fe3ccc88d364
+      internalID: -424944808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_177
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946728b368c2aa14e91e105e19ce985a
+      internalID: -871175580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_178
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 16
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436fb94d6c820b142ba51633e3e71a09
+      internalID: -384697194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_179
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e50347b9bbde449818ad04e7d8e6a0
+      internalID: 110965151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_180
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801b0b848a5c7aa4fb9c2d4f0cc473ff
+      internalID: 872967219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_181
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 14
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8808857ea894c418f264594315359c
+      internalID: 424988630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_182
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1329c79575b203a4b9a3646f32764062
+      internalID: 1430504518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_183
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d3ed336037e64e8b298f1b7f9c008
+      internalID: 1598295058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_184
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99398c7115f4ee94390374d26904a69a
+      internalID: 1590825149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce14cb447df9d8e4ebd8c4b427aaba81
+      internalID: -1360307665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_186
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 16
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44e8abe7a86ca146bed848b2c324f1f
+      internalID: 1738419108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_187
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 16
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf30458c985b9d40ba76003a583f592
+      internalID: 466307873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_188
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343a97d8ec83aab4aa2e9bb093df6d4d
+      internalID: -236361334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_189
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6c76b3e6fe0014abfd2359d50803ac
+      internalID: 2069841145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_190
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 16
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f87586a65c7fe4da7c58971b50f2c8
+      internalID: -416315823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_191
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d093f16dbadc658438e1407340c9cfe0
+      internalID: 610296257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_192
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 14
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad3fab1a7e7424698af4972fae8d52
+      internalID: -1252812311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_193
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaee6c144220a054ca998db5b5b8b5d8
+      internalID: 1174068641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_194
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 16
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca041a0f7da06994ab2cce5706efc60f
+      internalID: -1207304015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_195
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27b1e417be58cb4faff6be82e4309c9
+      internalID: 981091469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_196
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 16
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f7fef774d80d644a6dd6314d426c2f
+      internalID: -1486125067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_197
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 16
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c14ca50ae4ffcf418e9ff1c77b9b722
+      internalID: -1419193605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_198
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3babf319662a7e8468cf9c3d8fa081be
+      internalID: 199325575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_199
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 16
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af50961ed1556e5429a1d5b9c4fd1df0
+      internalID: -1168134927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_200
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ce2abc9ed080f4cb98040e985b22b9
+      internalID: -21886382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_201
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f3e1da394902d41854293307aeda4e
+      internalID: 1959255495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_202
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 16
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7270f28bf1ca3040b2be995abc56361
+      internalID: 1483205125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_203
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 16
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8020c3fb4edac4ca76efd12887be97
+      internalID: 560273739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_204
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 16
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7196ce3d3f8b5aa47ba08b9d48342005
+      internalID: 1472354439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_205
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91b97950dd1a74bb94fea151e92d52
+      internalID: 1833513677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_206
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 16
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5972e080fe7810a468f65f764a0ab476
+      internalID: -2061847228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_207
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76ed8b82c2e8ad4ca06c91329b8b0b8
+      internalID: 748940670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_208
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 16
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bf6a700f5b2444d8afbe28ea5f7712
+      internalID: -1257112886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_209
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 16
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233a10febcd75644da48d178645bf2d6
+      internalID: -1536485210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_210
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c7f4b395487349ac91fe2307fce26
+      internalID: 161563783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_211
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 16
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50548aeb124c69a4ba0992701fdf2b21
+      internalID: 603605054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_212
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 16
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a91bb1066966734d9f2b261b0a6c00c
+      internalID: -1782330807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_213
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556307a11654ce949a09eeb1e229a087
+      internalID: -142812117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_214
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 16
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f458cc8676b37246b10c5c2b8692228
+      internalID: 130506957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_215
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11020fb1784e5ef45bfd95da985f0025
+      internalID: -507811726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_216
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 16
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e96c2531179d4409cc721c3ecd751b
+      internalID: 1644102688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_217
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 16
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c24e2c70aafbf4dbf83a8212b11bfe
+      internalID: 749212715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_218
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 14
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee4429263b7104591d2aee2c40d6f6
+      internalID: -1784637531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_219
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 14
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d182b8d2c29cfd4db8c2421bc67bf1a
+      internalID: -385001463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_220
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c05389da97da4548a6cca7037ec5da1
+      internalID: 1419806793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_221
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 16
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779078e321e92c642b45c8c2c1c1ad8f
+      internalID: -477195497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_222
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 16
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478cfa37545bc894b87b17bb2048269e
+      internalID: 983733996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_223
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 14
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abee1812fe51cf40b21d510d2e91990
+      internalID: 716208940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_224
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 16
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3292ebbd81527a243b813f8928b811b2
+      internalID: -1023781918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_225
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 16
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e14f791a727774583a6d2daf05030b
+      internalID: 1339061390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_226
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689ab0363b23d0041bc0f483f1fd9088
+      internalID: -1162197161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_227
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 16
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73677b3109957c489cefe12524487b1
+      internalID: 254948838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_228
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 16
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ee35a55e9a1a4c8d511b8ddb3aaec
+      internalID: 1229129097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_229
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 16
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2d7b0574c881a459d8c6ee0fe108c5
+      internalID: -229175138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_230
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44ae23443b284844bf3693aff8e87c0
+      internalID: -22661802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_231
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3a1e7a4c66a645ba97bbcdc2438ad
+      internalID: 1419813314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_232
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3da3264080119409471584f25ead97
+      internalID: 604312005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_233
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4275249ec3a3114ca9e28ff74415d23
+      internalID: -1769651805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_234
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5801d806849078641b775ad6535d596e
+      internalID: -303744703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_235
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f364d421f0e9b6344b1bc68ba455607f
+      internalID: -1758452078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_236
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edbfc1aaaff4c74e81e2508cee92823
+      internalID: 694162267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_237
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bf3e69b43b1b04b86f282f7d168a9e
+      internalID: 945901182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_238
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d1e29c2dc97be4a9b7723dd6895678
+      internalID: -802487501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_239
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e5cbaeb20b75d4dac053294a7d0b4b
+      internalID: -2005317140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_240
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d357ed3f98d45da40b9c453e0810d137
+      internalID: -2079108512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_241
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8613a2af60f646b786dc850cbe760
+      internalID: -679451407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_242
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a307faa6a4be6fd4baec2471d86722b7
+      internalID: 60885850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_243
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed5d59e7c2e849428a8b02c1512021e
+      internalID: 525510513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_244
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77713f508f624e4ea6e4fef44cee5af
+      internalID: -2051884949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_245
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46422b3b2ad0df468eb015371f93abb
+      internalID: 65023803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_246
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549dc9bbf8030104fbf8c39ca75aca96
+      internalID: 807202319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_247
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983c0c62618537843b5c7edbc6b9c9ad
+      internalID: 273476296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
+        & Bosses_248
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6599071939fc92d4499229a1f2cfe631
+      internalID: -912600842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +5590,256 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Goomba_Die: -110756157
+      Goomba_Walk1: -1930421540
+      Goomba_Walk2: 1476483469
+      PirhannaDown_1: -1056087039
+      PirhannaDown_2: 21334603
+      PirhannaUp_1: -721438825
+      PirhannaUp_2: 389637426
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_0: 589943079
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_1: -1106573365
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_10: -1973212594
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_100: 1746960606
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_101: 2109105112
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_102: -83818580
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_103: 2016520879
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_104: 1137538730
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_105: 536852781
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_106: -258978332
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_107: -392611264
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_108: -738543031
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_109: 1579281215
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_110: 429817356
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_111: 1189931740
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_112: 1781408962
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_113: -740614055
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_114: -910020823
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_115: 5814766
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_116: 769265890
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_117: 765888449
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_118: 89498402
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_119: 1051792748
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_120: -527149050
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_121: 1348283521
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_122: 533267247
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_123: -678815366
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_124: 186838548
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_125: 375141315
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_126: -1700946870
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_127: -1584527001
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_128: 644434939
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_129: -1519069355
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_130: 1556075421
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_131: 1137009713
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_132: -1740131635
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_133: -220207819
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_134: -913961640
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_135: -1948629341
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_136: 1158489237
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_137: 17457063
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_138: 2049638852
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_139: -1036296576
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_140: 2066046568
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_141: 331024097
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_142: -2009000842
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_143: -823160742
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_144: 1915848913
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_145: -1517476596
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_146: -1501425205
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_147: 1356606656
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_148: -14954949
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_149: 887676340
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_15: -2123361102
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_150: 281779393
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_151: 1073731593
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_152: 783063145
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_153: 1724776805
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_154: -133389416
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_155: 2063877837
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_156: -1589743848
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_157: -751357013
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_158: -85122005
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_159: -927299767
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_16: -287477714
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_160: 448721969
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_161: 771293290
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_162: -1317103231
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_163: 1318227298
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_164: 2083687544
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_165: -827576698
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_166: -2107380198
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_167: 755312705
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_168: 1961947402
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_169: -1061904411
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_17: 2145761688
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_170: -1932625623
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_171: -1702031749
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_172: -707089946
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_173: -197040819
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_174: 33221360
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_175: 1714131618
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_176: -424944808
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_177: -871175580
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_178: -384697194
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_179: 110965151
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_18: -182009879
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_180: 872967219
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_181: 424988630
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_182: 1430504518
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_183: 1598295058
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_184: 1590825149
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_185: -1360307665
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_186: 1738419108
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_187: 466307873
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_188: -236361334
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_189: 2069841145
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_19: 484175323
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_190: -416315823
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_191: 610296257
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_192: -1252812311
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_193: 1174068641
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_194: -1207304015
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_195: 981091469
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_196: -1486125067
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_197: -1419193605
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_198: 199325575
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_199: -1168134927
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_2: 726503328
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_20: 1617248354
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_200: -21886382
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_201: 1959255495
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_202: 1483205125
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_203: 560273739
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_204: 1472354439
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_205: 1833513677
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_206: -2061847228
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_207: 748940670
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_208: -1257112886
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_209: -1536485210
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_21: 287519431
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_210: 161563783
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_211: 603605054
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_212: -1782330807
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_213: -142812117
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_214: 130506957
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_215: -507811726
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_216: 1644102688
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_217: 749212715
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_218: -1784637531
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_219: -385001463
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_22: 1062090646
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_220: 1419806793
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_221: -477195497
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_222: 983733996
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_223: 716208940
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_224: -1023781918
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_225: 1339061390
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_226: -1162197161
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_227: 254948838
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_228: 1229129097
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_229: -229175138
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_23: 1566019544
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_230: -22661802
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_231: 1419813314
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_232: 604312005
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_233: -1769651805
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_234: -303744703
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_235: -1758452078
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_236: 694162267
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_237: 945901182
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_238: -802487501
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_239: -2005317140
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_24: 157939415
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_240: -2079108512
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_241: -679451407
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_242: 60885850
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_243: 525510513
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_244: -2051884949
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_245: 65023803
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_246: 807202319
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_247: 273476296
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_248: -912600842
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_25: 2041062139
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_26: 1340516613
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_27: -1674589339
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_3: -1017966705
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_31: -1250867445
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_32: 345572272
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_33: -1326068483
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_34: 168556093
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_35: -472719435
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_36: -1713496425
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_37: -1086026863
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_38: -2003806688
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_39: -1297964742
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_4: -1561008175
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_40: 398450285
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_41: 108381985
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_42: -986532814
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_43: -327461992
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_44: -394845532
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_45: -1033847742
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_46: -690674210
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_47: 342632834
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_48: -1543119798
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_49: -1103077795
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_5: 1065307913
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_50: -2071344474
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_51: 173638300
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_52: -942879164
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_53: -826064701
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_54: -838945351
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_55: -37795262
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_56: -2112923329
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_57: 1243550680
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_58: -636365710
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_59: 1295577749
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_6: -1136547213
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_60: -242618
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_61: -1008000077
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_62: -1668954294
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_63: 299845547
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_64: 475407744
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_65: 1737158718
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_66: -188031641
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_67: -1128657764
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_68: -881755787
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_69: -885057593
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_7: 1557861101
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_70: -633376929
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_71: -325455785
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_72: -1328118516
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_73: 933735940
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_74: -1604880090
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_75: -1125243209
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_76: -1332224331
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_77: 1638694582
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_78: -112544399
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_79: 1322413597
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_8: -1614651796
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_80: 613752633
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_81: 992241367
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_82: 2132150666
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_83: 1064193525
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_84: 938540403
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_85: -1125435073
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_86: -2092104987
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_87: -476132960
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_88: -286607696
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_89: -20596604
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_9: 116032007
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_90: -436766117
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_91: 769315181
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_92: 1445066052
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_93: -1710009941
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_94: 974457478
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_95: -1132173746
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_96: 177198115
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_97: -315911701
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_98: -1886641798
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_99: 199809394
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
