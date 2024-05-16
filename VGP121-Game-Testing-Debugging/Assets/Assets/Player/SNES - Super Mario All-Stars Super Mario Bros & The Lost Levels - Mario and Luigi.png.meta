@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,1861 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: LMario_Idle
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 130
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674f9dc10a17c184e87f9d6b5eeb837c
+      internalID: 1623147597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMario_Walk1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 130
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d721ef13e8cbff249a095215bc74a06b
+      internalID: -1216850799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMario_Walk2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 131
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8720890e7c14c449a34397134cbd820
+      internalID: -1442615052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 130
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e559fe84e664448accfb4d6511b34d
+      internalID: 956664629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMario_Jump
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 131
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc3a643638d074468edf57645970420
+      internalID: 2074644156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 130
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c29cef4d8a6c74c808554ac995496b
+      internalID: -96071116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 130
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d1ef5969ff0bb469da90c20d2f5b43
+      internalID: -1292633368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 131
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa89e3e976c5a40aa34e5070a7e71f
+      internalID: -1760300523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMario_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 132
+        width: 14
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a5e13ccd480e542a2f3544bd864e90
+      internalID: 952272899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMario_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 133
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec73b75c90e92d2419aa155b1f3553c1
+      internalID: -1338850805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMario_Throw1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 130
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989d3b646caa81d46aa2cd58be804bf8
+      internalID: -1240444650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 130
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f90a7682252814698789ccaf05f2c4
+      internalID: -1856474866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 130
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8152c3dd6aa01d94bac34589e7276658
+      internalID: 967747383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_16
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 130
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfcec72768765c40b9ef54a4af3d644
+      internalID: -1115435348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMario_Idle
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 130
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c905618e8b12341b2fbd342599c118
+      internalID: -2057022924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMario_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54a261ed65bb31409bf7c852d155c72
+      internalID: 1108870892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMario_Walk2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 130
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ff2ce844f52734a882f466940f5bfc
+      internalID: 963996424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 130
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7df5d09f4dbde41adf4f3c54201c26
+      internalID: 1889683762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMario_Jump
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 130
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c103df6dcd50d1b43b1d34f3bf4c8176
+      internalID: 957400604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 130
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e380c5e29e82d694dac82d8c66546e5a
+      internalID: -723545168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 131
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ecd9e160ad1d043876090c8fbf1f5b
+      internalID: 199867419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f802e1a49ba8c47b75c368f82a5034
+      internalID: 1546106620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMario_GP1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 130
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74faa652e090eee4c945644122515f95
+      internalID: -734206709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMario_GP2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 130
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e7bd68a131f8740bc3394c4cd5af33
+      internalID: -207270347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LMario_Die
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 130
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c158748d37939b242b90ffbde04ece93
+      internalID: 219186595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMario_Win1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 130
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5e652cf4a2f854ca2cd78b0c8506a5
+      internalID: 697722125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMario_Win2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 130
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6208cfbaa03bc49bec9384c2def37c
+      internalID: 886473603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 130
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f167b2cfa5b84181c7927d26a18c1
+      internalID: -875920848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_31
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 130
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1286509ae9636a141bfa85f784fa247c
+      internalID: -542443354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_32
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 131
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa0882e88d26f642b3d9ce0fb064ae4
+      internalID: 1527831432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 97
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d32bbd9c7d72c040aed43e063464f78
+      internalID: -266615472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d20caa4d365c41854b10f7ab06e78
+      internalID: 489320747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 98
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498b443957a92e40b353a83164be2ff
+      internalID: -1560096183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_39
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 97
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8404ba2cea96d1247a20de03b3aa02e4
+      internalID: 1730170990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_40
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 98
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2efa71da43c42f4f850465a740763c4
+      internalID: 2089948538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 97
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b6ae8d22b68e3439db13d4eb758c6b
+      internalID: 410832657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_42
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 97
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966dcb757dca69646add74b1cdc6ff09
+      internalID: -456658608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_43
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 98
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a2c36d04ac8394db44636a5bb901db
+      internalID: -1620353178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_44
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 99
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a3c0aeb8d754c4088df507bef1e8c3
+      internalID: 394946591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_45
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 100
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cf61e8c413a0549ab328d114b2c96e
+      internalID: -1206607101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 97
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52f716e3ce845842b418d427c810a57
+      internalID: 1625429648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_47
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 97
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28ec9ee55b8c794bbe2caa8e738dd09
+      internalID: -1973067032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_48
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 97
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7704b2cda9a73da4a8fc1e53e00a4445
+      internalID: -2087736219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_49
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 97
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58ddf092cd81f84286014ea196ff5e0
+      internalID: 948651502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6317d00c7af0a3c47898aaec29ab580f
+      internalID: 668560584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 97
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddd1eb2fe3fcf64f89a8c86c04a3678
+      internalID: 1108421080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 97
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ff87bc3d352c40854f2d163d5bce1
+      internalID: -1316390657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 97
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec76c11739d571d40aa743779ada5a09
+      internalID: 1376137636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_54
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 97
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b25a3015751d4499904bdb1e047848
+      internalID: 1968823642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 97
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01f578cd496ca7498e675dba3ce13a4
+      internalID: -374118899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_56
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 98
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92b52febd6ec4f4481ef8ec942b1bbd
+      internalID: 275217721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_57
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 97
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede64db329a9ae945b166fa61ecb40a5
+      internalID: 662480092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_58
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 97
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372d98f8388ccc54191dd885eec9bc87
+      internalID: -801972161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_59
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 97
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f9a178d5c6e554d82df1bf0076442b
+      internalID: 608155527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_60
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 97
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8c27623bb595445b12d6d339b118b9
+      internalID: -1272892125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_61
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 97
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e2c4f9081b1354fb61ab19c6d53977
+      internalID: -336358824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_62
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 97
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d827d35c1db7a3843aaf198050029055
+      internalID: -250508038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b4370ec541836448c8ba570ed64a0f
+      internalID: 1119564806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_64
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 97
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760b3e72fb1067d479b8f8cf870ff719
+      internalID: -66439233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_65
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 97
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bc7a9c22b66fb4d92b7b29436ed7d9
+      internalID: 738795278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_72
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 64
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c643e110a392a44a851e61794134e9e
+      internalID: -1619130958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89d8eddd4d2cdf41a85cb316a8c22c6
+      internalID: 1717485600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_74
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 65
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb2df2837868aa4cbf1449d8462d05c
+      internalID: 803380696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_75
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d623af55ed0649542a1e48ba3b452ab4
+      internalID: -2007233530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 65
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189238ae4efbe0c4c955037f911b60ff
+      internalID: -901135188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_77
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 66
+        width: 14
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077cf035de4bcf644963da59b940f9b6
+      internalID: -1394840878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_78
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 67
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a9b8d8c636fa743821fc9137dc1b40
+      internalID: -202970298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f587b54a3ed304f94f6da33fa2a5aa
+      internalID: 664171606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_80
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 64
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6fb61c0a12458479f107359e71ab1e
+      internalID: 1539717199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_81
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 64
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1a4c0e5affcce4c949530a2dc18975
+      internalID: -1176855196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_82
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 64
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d76f669b436874c821f82fd7dc0c66
+      internalID: -340255009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_83
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 64
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b38e5d6e34f06459083500b6d8686d
+      internalID: 1999119249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_84
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 64
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf2c8287833b642b68a7859e90c44c
+      internalID: 1783243178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_85
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 64
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4965d43b759d8c4c935754a830a9b0f
+      internalID: -703975994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_86
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 64
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e575789f53f7b1f4ba20302683d3a5c7
+      internalID: -2089843596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_87
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 64
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24a9574fc5e69343a0e43d1253b03d1
+      internalID: 211179713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_88
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 64
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cc5bdffb97f804a9cb2d515bc990a3
+      internalID: 1369302587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481b7a48fc176ba4bac4c0c66c701fde
+      internalID: -521652542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_90
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e678f38e6e474b641bceea6970cb4865
+      internalID: -1616383094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cada944c36aee446af69ab92c003287
+      internalID: -1668433413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 64
+        width: 14
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f972041ad4d34dbadec4f84002bb5
+      internalID: -1571066560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_93
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 64
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e5f86ba83ad446a8c1426d6b82c84
+      internalID: -116048608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_94
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 64
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7313eeab4106b36438920693686b959e
+      internalID: -1875816426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_95
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 64
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a65e5d713938b4c8c517afe963cf5e
+      internalID: 392733002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
+        and Luigi_96
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aa4b5b2b656dc42804b3b0a1f6060a
+      internalID: 435842584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +1973,152 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LMario_2: 952272899
+      LMario_3: -1338850805
+      LMario_Die: 219186595
+      LMario_Idle: 1623147597
+      LMario_Jump: 2074644156
+      LMario_Throw1: -1240444650
+      LMario_Walk1: -1216850799
+      LMario_Walk2: -1442615052
+      SMario_GP1: -734206709
+      SMario_GP2: -207270347
+      SMario_Idle: -2057022924
+      SMario_Jump: 957400604
+      SMario_Walk2: 963996424
+      SMario_Walk_1: 1108870892
+      SMario_Win1: 697722125
+      SMario_Win2: 886473603
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_0: -364698523
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_1: 1577489603
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_10: -1760300523
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_100: -196862585
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_101: 952439356
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_102: -131835703
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_103: -1651373844
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_104: -1329436238
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_105: 1305379661
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_106: 853039809
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_107: -1701817023
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_108: -482683151
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_109: -715254243
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_110: 2083098091
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_111: 1872895415
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_112: -834858094
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_113: -541358478
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_114: -1045484908
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_115: -179313149
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_116: -1045322512
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_117: -1270898674
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_118: 1871970018
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_119: 2083453920
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_120: -1532060574
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_121: -1193604483
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_122: -174668137
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_123: 769752405
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_124: -1822595382
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_125: -184517919
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_126: 470601683
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_127: 1327000545
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_128: 1039540527
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_129: -927495120
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_130: -339191569
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_131: 1214744812
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_132: 1246816548
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_133: 854601408
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_134: 1368335177
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_135: -450838154
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_136: -1477073356
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_137: -50006336
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_138: 935669332
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_139: -561624279
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_14: -1856474866
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_140: -243062288
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_141: 916371924
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_142: -1029835338
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_143: -564535554
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_144: 1805512238
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_15: 967747383
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_16: -1115435348
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_2: -1811769337
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_20: 1889683762
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_22: -723545168
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_23: 199867419
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_24: 1546106620
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_30: -875920848
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_31: -542443354
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_32: 1527831432
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_33: -1580011442
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_34: -1138552788
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_35: -253744199
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_36: -266615472
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_37: 489320747
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_38: -1560096183
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_39: 1730170990
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_40: 2089948538
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_41: 410832657
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_42: -456658608
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_43: -1620353178
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_44: 394946591
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_45: -1206607101
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_46: 1625429648
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_47: -1973067032
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_48: -2087736219
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_49: 948651502
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_50: 668560584
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_51: 1108421080
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_52: -1316390657
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_53: 1376137636
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_54: 1968823642
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_55: -374118899
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_56: 275217721
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_57: 662480092
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_58: -801972161
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_59: 608155527
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_6: 956664629
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_60: -1272892125
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_61: -336358824
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_62: -250508038
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_63: 1119564806
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_64: -66439233
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_65: 738795278
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_66: 814260276
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_67: 913886312
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_68: 1578915227
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_69: 1270068869
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_70: -78438054
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_71: 1620781096
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_72: -1619130958
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_73: 1717485600
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_74: 803380696
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_75: -2007233530
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_76: -901135188
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_77: -1394840878
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_78: -202970298
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_79: 664171606
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_8: -96071116
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_80: 1539717199
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_81: -1176855196
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_82: -340255009
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_83: 1999119249
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_84: 1783243178
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_85: -703975994
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_86: -2089843596
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_87: 211179713
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_88: 1369302587
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_89: -521652542
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_9: -1292633368
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_90: -1616383094
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_91: -1668433413
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_92: -1571066560
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_93: -116048608
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_94: -1875816426
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_95: 392733002
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_96: 435842584
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_97: -1346908766
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_98: 1092027358
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_99: -1585518548
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
