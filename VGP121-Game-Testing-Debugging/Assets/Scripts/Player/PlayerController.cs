@@ -163,7 +163,7 @@ public class PlayerController : MonoBehaviour
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
 
         if (Input.GetButtonDown("Jump") && !isGrounded)
-            anim.SetTrigger("JumpAttack");
+            anim.SetTrigger("Groundpound");
 
 
 

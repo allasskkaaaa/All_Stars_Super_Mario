@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 23
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,1234 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: RedMushroom
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5c8d99ebda3b04d8f507970bf5c196
+      internalID: 1515036571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0582e65237d2248af677a2907e501b
+      internalID: -2049965541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a1786122aa78b469f7e499c9515e74
+      internalID: -300857375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c846e04b7f6e0214db24709b89fcb9dd
+      internalID: 110781746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireFlower
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c27789ec582d944863c8e5d6d3e670
+      internalID: -1824779583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5cdc79c01a7294981d8ed554391995
+      internalID: 1063294755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c5ae111c01e9047872dcf5b7921b8a
+      internalID: -1485378893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8518217967e90aa4fbad8987fe9682af
+      internalID: 1563990554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8926f839af18ba9469efbe4bb2fcc6c3
+      internalID: -905887881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c74854185bb8164a87dce109e67fde6
+      internalID: 1563641258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325790d4f983b934a89e1a7692bcb155
+      internalID: -70921245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92919eeb44d03e349a9cc07b55669aa7
+      internalID: -891149967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 136
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4259b71109fde8346a3f59d64fe3d7a1
+      internalID: 1981890142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 136
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc93c7c425f5934992a07cda37bb33a
+      internalID: -854480537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 136
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ec3f328e0c7834b9414c664349d3ce
+      internalID: -1573501817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 110
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7801b3a17d32903408320509791fcede
+      internalID: -681250693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731235890be50cf4090ddd0118cd710f
+      internalID: 1232052450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 120
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f64c7b1b3e5344fa5eac4878a679b2
+      internalID: -91297745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4474c9e9be175247a7e8a860ee03b28
+      internalID: -375112488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05c4a86234d8064289c81dbceb33aab
+      internalID: -385985368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 128
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fb7c42b1d3e524185818a2a6761c5b
+      internalID: -1804130266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 130
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a6350c0bd4beb4ea38d2da9184c5f0
+      internalID: 1010185594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b467fb7e68f7e447a2c58b5d0d4e5c2
+      internalID: 1503170565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 121
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df56592b4b7901944a097a1e10cd7188
+      internalID: -275948856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 119
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181dd4185245a2144bb17207c8d1c4bf
+      internalID: 1257725440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 121
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83646662038a744f826af2638655688
+      internalID: -922502612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d594523554a1b4a9d96798d1ccfaaa
+      internalID: 1855010167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3988a5f093ca1449f8bb01a0a2e67b
+      internalID: 1346474690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 110
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95557a0e45f323f40861234b4641a213
+      internalID: 1705350045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0922bf1e97aca7645af26d6b996ad67f
+      internalID: 266168809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 94
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5369cab31a83eec4fb4b92cbbed0350f
+      internalID: 754189384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cb496887f0bd744970336aafe6aefa
+      internalID: 322297355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448fea41b891d2546b7b5e4add1e6afb
+      internalID: -412552100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a69e33283e424694f2c871f33d22a
+      internalID: -1067131412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30f354e0352c8b4693297ae980158f6
+      internalID: -1065030565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5267dd129ddde5945b4fea951fb2bfc3
+      internalID: -926001800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c532647db56ac042aaf1e3323a480ea
+      internalID: 1182838244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac32869274825543b5ab9eab74b93db
+      internalID: 1213909822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb327d359b6d1247af780913f0ed715
+      internalID: 52371163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_39
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926ffdcf4ec7d444baeb736e2b9cc20e
+      internalID: 888310572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476cc7ae25215194ebddf7ea951749c7
+      internalID: -1665231911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190b6ba3bd7be5c47baba96dde6518b0
+      internalID: -1871462712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c3e8c0cd1bb954eacb92cbd1455eaa
+      internalID: -17904323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2876fda2f2eab1344981578d6e26f546
+      internalID: -1007119993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c0471261504e84cb1ba0cec0b5d5e9
+      internalID: 541569934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_45
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01edab4f2991f649bb2d2102761849b
+      internalID: 929387586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05c045cadf98e54e8da117d45e3f5ff
+      internalID: 2029494663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_47
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb11333d2b86cc46ba414c092005449
+      internalID: -1337247742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e1f03a8029bf409cf4c8dff4ff9d2
+      internalID: -1417602071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265076dde42eceb47ab6caf8f62d8c25
+      internalID: -1456498872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a432b1786467cf4e8b753d52160912e
+      internalID: -254115429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5deb552a9ed4041a330aa3852d8f73
+      internalID: 2004130661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_52
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2088ff742bd83bf4c807b1c82fa2d79c
+      internalID: -2100737338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_53
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c047d5966161e4d96387f2080f311e
+      internalID: -2001751017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_54
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52107f161e753a24486fa12f96d56d39
+      internalID: 94341725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items
+        & Blocks_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652146129c43fc147a0df851599688e4
+      internalID: -1357957239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +1346,63 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Coin1: -854480537
+      Coin2: 1981890142
+      Coin3: -1573501817
+      FireFlower: -1824779583
+      RedMushroom: 1515036571
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_1: -2049965541
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_10: -70921245
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_11: -891149967
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_15: -681250693
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_16: 1232052450
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_17: -91297745
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_18: -375112488
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_19: -385985368
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_2: -300857375
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_20: -1804130266
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_21: 1010185594
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_22: 1503170565
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_23: -275948856
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_24: 1257725440
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_25: -922502612
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_26: 1855010167
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_27: 1346474690
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_28: 1705350045
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_29: 266168809
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_3: 110781746
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_30: 754189384
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_31: 322297355
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_32: -412552100
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_33: -1067131412
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_34: -1065030565
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_35: -926001800
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_36: 1182838244
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_37: 1213909822
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_38: 52371163
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_39: 888310572
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_40: -1665231911
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_41: -1871462712
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_42: -17904323
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_43: -1007119993
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_44: 541569934
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_45: 929387586
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_46: 2029494663
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_47: -1337247742
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_48: -1417602071
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_49: -1456498872
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_5: 1063294755
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_50: -254115429
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_51: 2004130661
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_52: -2100737338
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_53: -2001751017
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_54: 94341725
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_55: -1357957239
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_6: -1485378893
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_7: 1563990554
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_8: -905887881
+      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Items & Blocks_9: 1563641258
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
