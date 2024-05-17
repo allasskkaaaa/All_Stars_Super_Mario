@@ -12,8 +12,10 @@ public class EnemyMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Check if the enemy is paused
         if (!isPaused)
         {
+            //Switch enemy destination once it reaches their initial destination.
             if (patrolDestination == 0)
             {
                 transform.position = Vector3.MoveTowards(transform.position, patrolPoints[0].position, moveSpeed * Time.deltaTime);

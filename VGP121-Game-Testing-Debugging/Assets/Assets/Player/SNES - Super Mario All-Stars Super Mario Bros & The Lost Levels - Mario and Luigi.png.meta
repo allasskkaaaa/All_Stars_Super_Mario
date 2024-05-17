@@ -1502,8 +1502,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
-        and Luigi_76
+      name: Fire_Attack1
       rect:
         serializedVersion: 2
         x: 120
@@ -1524,8 +1523,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
-        and Luigi_77
+      name: Fire_Attack2
       rect:
         serializedVersion: 2
         x: 139
@@ -1546,8 +1544,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
-        and Luigi_78
+      name: Fire_Attack3
       rect:
         serializedVersion: 2
         x: 156
@@ -1974,6 +1971,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Fire_Attack1: -901135188
+      Fire_Attack2: -1394840878
+      Fire_Attack3: -202970298
       LMario_2: 952272899
       LMario_3: -1338850805
       LMario_Die: 219186595
@@ -2093,9 +2093,6 @@ TextureImporter:
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_73: 1717485600
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_74: 803380696
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_75: -2007233530
-      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_76: -901135188
-      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_77: -1394840878
-      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_78: -202970298
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_79: 664171606
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_8: -96071116
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_80: 1539717199
