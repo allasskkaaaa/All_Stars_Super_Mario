@@ -1115,8 +1115,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
-        & Bosses_46
+      name: Koopa_1
       rect:
         serializedVersion: 2
         x: 307
@@ -1137,8 +1136,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
-        & Bosses_47
+      name: Koopa_2
       rect:
         serializedVersion: 2
         x: 324
@@ -1159,8 +1157,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
-        & Bosses_48
+      name: Koopa_3
       rect:
         serializedVersion: 2
         x: 341
@@ -1181,8 +1178,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
-        & Bosses_49
+      name: Koopa_4
       rect:
         serializedVersion: 2
         x: 358
@@ -5594,6 +5590,10 @@ TextureImporter:
       Goomba_Die: -110756157
       Goomba_Walk1: -1930421540
       Goomba_Walk2: 1476483469
+      Koopa_1: -690674210
+      Koopa_2: 342632834
+      Koopa_3: -1543119798
+      Koopa_4: -1103077795
       PirhannaDown_1: -1056087039
       PirhannaDown_2: 21334603
       PirhannaUp_1: -721438825
@@ -5781,10 +5781,6 @@ TextureImporter:
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_43: -327461992
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_44: -394845532
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_45: -1033847742
-      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_46: -690674210
-      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_47: 342632834
-      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_48: -1543119798
-      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_49: -1103077795
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_5: 1065307913
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_50: -2071344474
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_51: 173638300
