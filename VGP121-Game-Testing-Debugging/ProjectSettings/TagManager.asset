@@ -6,8 +6,8 @@ TagManager:
   tags:
   - GroundCheck
   - Ground
-  - Coin
   - Weak Point
+  - Collectible
   layers:
   - Default
   - TransparentFX

@@ -23,13 +23,14 @@ public class Pickup : MonoBehaviour
             switch (type)
             {
                 case PickupType.RedMushroom:
-                    // Handle RedMushroom pickup
+                    pc.mushroomGet = true;
                     break;
                 case PickupType.Score:
-                    ScoreManager.Instance.AddScore(scoreValue);
+                    //Increase Score
                     break;
                 case PickupType.FireFlower:
                     // Handle FireFlower pickup
+                    pc.flowerGet = true;
                     break;
             }
 

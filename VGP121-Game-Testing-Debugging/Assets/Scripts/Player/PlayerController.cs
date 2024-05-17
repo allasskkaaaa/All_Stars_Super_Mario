@@ -8,6 +8,9 @@ public class PlayerController : MonoBehaviour
     public bool TestMode;
 
     //Player Gameplay Variables
+    public bool flowerGet;
+    public bool mushroomGet;
+
 
     //Movement Variables
     [SerializeField] private int speed;
@@ -102,6 +105,12 @@ public class PlayerController : MonoBehaviour
             rb.gravityScale = 10;
         }
             
+        //Check if powerups are available
+
+        if (mushroomGet == true)
+        {
+            anim.SetBool("RedMushroom", true);
+        }
 
 
 

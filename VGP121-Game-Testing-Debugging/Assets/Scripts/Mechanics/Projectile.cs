@@ -6,7 +6,7 @@ public class Projectiles : MonoBehaviour
 {
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (!collision.gameObject.CompareTag("Player") && !collision.gameObject.CompareTag("PowerUp") && !collision.gameObject.CompareTag("Collectible"))
+        if (!collision.gameObject.CompareTag("Player") && !collision.gameObject.CompareTag("Collectible"))
             Destroy(gameObject);
     }
     public float lifetime;
