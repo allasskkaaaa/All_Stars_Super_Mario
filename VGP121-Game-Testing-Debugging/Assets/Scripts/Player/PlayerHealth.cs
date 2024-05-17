@@ -22,4 +22,9 @@ public class PlayerHealth : MonoBehaviour
             Destroy(gameObject);
         }
     }
+    public int maxHealthIncrease(int healthIncrease) 
+    {
+        maxHealth += 1; 
+        return healthIncrease;
+    }
 }

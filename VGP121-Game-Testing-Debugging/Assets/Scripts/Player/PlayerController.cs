@@ -23,7 +23,7 @@ public class PlayerController : MonoBehaviour
     private SpriteRenderer sr;
     private Animator anim;
 
-    
+   
     // Start is called before the first frame update
     void Start()
     {
@@ -97,7 +97,11 @@ public class PlayerController : MonoBehaviour
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
 
         if (Input.GetButtonDown("Jump") && !isGrounded)
+        {
             anim.SetTrigger("Groundpound");
+            rb.gravityScale = 10;
+        }
+            
 
 
 
