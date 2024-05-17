@@ -12,4 +12,9 @@ public class GoombaStomp : MonoBehaviour
             Destroy(collision.gameObject.transform.parent.gameObject);
         }
     }
+
+    private void Start()
+    {
+        
+    }
 }

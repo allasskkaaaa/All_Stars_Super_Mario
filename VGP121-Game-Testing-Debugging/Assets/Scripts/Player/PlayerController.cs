@@ -8,9 +8,6 @@ public class PlayerController : MonoBehaviour
     public bool TestMode;
 
     //Player Gameplay Variables
-   
-
-    [SerializeField] private int maxLives = 5;
 
     //Movement Variables
     [SerializeField] private int speed;
