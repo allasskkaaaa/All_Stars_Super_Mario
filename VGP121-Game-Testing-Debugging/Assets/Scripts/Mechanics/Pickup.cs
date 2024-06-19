@@ -8,7 +8,8 @@ public class Pickup : MonoBehaviour
     {
         RedMushroom,
         FireFlower,
-        Score
+        Score,
+        Health
     }
 
     [SerializeField] private PickupType type;
@@ -31,6 +32,9 @@ public class Pickup : MonoBehaviour
                 case PickupType.FireFlower:
                     // Handle FireFlower pickup
                     pc.flowerGet = true;
+                    break;
+                case PickupType.Health:
+                    GameManager.instance.lives++;
                     break;
             }
 
