@@ -10,7 +10,7 @@ public class Level : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GameManager.instance.SpawnPlayer(startPos);
+        GameManager.Instance.SpawnPlayer(startPos);
     }
 
 }

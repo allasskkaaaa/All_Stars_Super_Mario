@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
@@ -7,10 +8,9 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     static GameManager _instance;
-    public static GameManager instance => _instance;
-    public GameObject pauseMenu;
+    public Action<int> OnLifeValueChange;
+    public static GameManager Instance => _instance;
 
-    public static bool isPaused = false;
     public int score = 0;
 
     private int _lives;
@@ -20,9 +20,11 @@ public class GameManager : MonoBehaviour
         set
         {
             if (value <= 0) GameOver();
-            //if (value < _lives) Respawn();
+            if (value < _lives) Respawn();
             if (value > maxLives) value = maxLives;
             _lives = value;
+
+            OnLifeValueChange?.Invoke(_lives);
 
             Debug.Log($"Lives have been set to {_lives}");
             //broadcast can happen here
@@ -52,8 +54,6 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        pauseMenu.SetActive(false);
-        isPaused = false;
 
         if (maxLives <= 0)
         {
@@ -62,31 +62,11 @@ public class GameManager : MonoBehaviour
         lives = maxLives;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void LoadScene(string SceneName)
     {
-
-        if (SceneManager.GetActiveScene().name == "Level_One")
-        {
-            if (Input.GetKeyDown(KeyCode.P))
-            {
-                if (isPaused == false)
-                {
-                    pauseMenu.SetActive(true);
-                    isPaused = true;
-                    Time.timeScale = 0f;
-                }
-                else
-                {
-                    pauseMenu.SetActive(false);
-                    Time.timeScale = 1f;
-                    isPaused = false;
-                }
-
-            }
-        }
-
+        SceneManager.LoadScene(SceneName);
     }
+
     public void GameOver()
     {
         Destroy(gameObject);
@@ -113,6 +93,7 @@ public class GameManager : MonoBehaviour
     public void returnToMenu()
     {
         SceneManager.LoadScene(0);
+        Time.timeScale = 1.0f;
 
     }
 

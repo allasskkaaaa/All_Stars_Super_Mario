@@ -34,7 +34,7 @@ public class Pickup : MonoBehaviour
                     pc.flowerGet = true;
                     break;
                 case PickupType.Health:
-                    GameManager.instance.lives++;
+                    GameManager.Instance.lives++;
                     break;
             }
 

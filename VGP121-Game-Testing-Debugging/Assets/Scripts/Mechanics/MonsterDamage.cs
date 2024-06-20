@@ -10,7 +10,7 @@ public class MonsterDamage : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
-            GameManager.instance.lives -= damage;
+            GameManager.Instance.lives -= damage;
         }
     }
 }

@@ -12,7 +12,7 @@ public class CameraFollow : MonoBehaviour
     {
         Vector3 cameraPos = transform.position;
 
-        cameraPos.x = Mathf.Clamp(GameManager.instance.PlayerInstance.transform.position.x, minXClamp, maxXClamp);
+        cameraPos.x = Mathf.Clamp(GameManager.Instance.PlayerInstance.transform.position.x, minXClamp, maxXClamp);
 
         transform.position = cameraPos;
 

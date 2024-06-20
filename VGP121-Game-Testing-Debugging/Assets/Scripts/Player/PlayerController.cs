@@ -8,8 +8,8 @@ public class PlayerController : MonoBehaviour
     public bool TestMode;
 
     //Player Gameplay Variables
-    public bool flowerGet;
-    public bool mushroomGet;
+    public bool flowerGet = false;
+    public bool mushroomGet = false;
 
 
     //Movement Variables
@@ -112,6 +112,11 @@ public class PlayerController : MonoBehaviour
             anim.SetBool("RedMushroom", true);
         }
 
+        if (flowerGet == true)
+        {
+            anim.SetBool("FireFlower", true);
+        }
+
 
 
         //Sprite Flipping
@@ -120,6 +125,7 @@ public class PlayerController : MonoBehaviour
         //setting specific animation variables
         anim.SetFloat("speed", Mathf.Abs(xInput));
         anim.SetBool("isGrounded", isGrounded);
+
     }
 
     public void IncreaseGravity()
