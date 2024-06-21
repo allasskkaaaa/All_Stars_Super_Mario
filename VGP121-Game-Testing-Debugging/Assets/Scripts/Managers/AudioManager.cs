@@ -14,6 +14,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip EnemyDeath;
     public AudioClip Fire;
     public AudioClip Jump;
+    public AudioClip Coin;
 
 
     public void PlaySFX(AudioClip clip)

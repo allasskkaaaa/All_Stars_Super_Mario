@@ -57,6 +57,7 @@ public class CanvasManager : MonoBehaviour
         if (playButton)
             playButton.onClick.AddListener(() => GameManager.Instance.LoadScene("Level_One"));
 
+
         if (settingsButton)
             settingsButton.onClick.AddListener(() => SetMenus(settingsMenu, mainMenu));
 
@@ -84,7 +85,7 @@ public class CanvasManager : MonoBehaviour
 
         if (scoreText)
         {
-            GameManager.Instance.OnLifeValueChange += OnScoreValueChanged;
+            GameManager.Instance.OnScoreValueChange += OnScoreValueChanged;
             scoreText.text = $"Score: {GameManager.Instance.score}";
         }
 

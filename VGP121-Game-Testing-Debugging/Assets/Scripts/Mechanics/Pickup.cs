@@ -15,19 +15,22 @@ public class Pickup : MonoBehaviour
     [SerializeField] private PickupType type;
     [SerializeField] private int scoreValue = 10; // Add this line to specify the score value for score pickups
     CanvasManager canvasManager;
+    AudioManager audioManager;
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
             PlayerController pc = collision.GetComponent<PlayerController>();
-            
+            audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+
             switch (type)
             {
                 case PickupType.RedMushroom:
                     pc.mushroomGet = true;
                     break;
                 case PickupType.Score:
-                    GameManager.Instance.score++;
+                    audioManager.PlaySFX(audioManager.Coin);
+                    GameManager.Instance.score+= scoreValue;
                     Debug.Log("Score increased");
                     break;
                 case PickupType.FireFlower:
