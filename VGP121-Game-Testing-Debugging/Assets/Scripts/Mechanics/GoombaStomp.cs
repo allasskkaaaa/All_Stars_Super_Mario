@@ -15,13 +15,12 @@ public class GoombaStomp : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        
-
         if (collision.gameObject.CompareTag("Weak Point"))
         {
             audioManager.PlaySFX(audioManager.EnemyDeath);
-            enemyController.isDead = true;
-            Destroy(collision.gameObject.transform.parent.gameObject);
+            Destroy(collision.gameObject);
+            GameManager.Instance.score += 30;
         }
     }
+
 }

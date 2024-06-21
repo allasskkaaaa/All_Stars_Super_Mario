@@ -9,7 +9,6 @@ public class EnemyController : MonoBehaviour
 
     public bool isDead;
 
-
     void Start()
     {
         // Get the SpriteRenderer component attached to the enemy

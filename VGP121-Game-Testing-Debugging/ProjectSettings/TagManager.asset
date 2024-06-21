@@ -9,6 +9,8 @@ TagManager:
   - Weak Point
   - Collectible
   - Enemy
+  - Audio
+  - Environment
   layers:
   - Default
   - TransparentFX

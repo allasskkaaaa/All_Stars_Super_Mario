@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     public bool TestMode;
 
     //Player Gameplay Variables
-    public bool flowerGet = false;
+    public bool flowerGet = true;
     public bool mushroomGet = false;
 
 
