@@ -1,18 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class AudioManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
+    [Header("Audio Source")]
+    [SerializeField] AudioSource SFXSource;
+
+    [Header("Audio Clip")]
+    public AudioClip damage;
+    public AudioClip EnemyDeath;
+    public AudioClip Fire;
+    public AudioClip Jump;
+
+
+    public void PlaySFX(AudioClip clip)
     {
-        
+        SFXSource.PlayOneShot(clip);
     }
 }

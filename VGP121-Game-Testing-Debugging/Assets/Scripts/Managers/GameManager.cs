@@ -9,9 +9,19 @@ public class GameManager : MonoBehaviour
 {
     static GameManager _instance;
     public Action<int> OnLifeValueChange;
+    public Action<int> OnScoreValueChange;
     public static GameManager Instance => _instance;
 
-    public int score = 0;
+    private int _score;
+    public int score
+    {
+        get { return _score; }
+        set 
+        { 
+            _score = value;
+            OnScoreValueChange?.Invoke(_score);
+        }
+    }
 
     private int _lives;
     public int lives
@@ -30,6 +40,7 @@ public class GameManager : MonoBehaviour
             //broadcast can happen here
         }
     }
+
 
     [SerializeField] private int maxLives = 3;
     [SerializeField] private PlayerController playerPrefab;
@@ -76,6 +87,8 @@ public class GameManager : MonoBehaviour
     private void Respawn()
     {
         _playerinstance.transform.position = currentCheckpoint.position;
+        _playerinstance.flowerGet = false;
+        _playerinstance.mushroomGet = false;
         Debug.Log("Respawn");
     }
 
@@ -113,10 +126,5 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(1);
         score = 0;
 
-    }
-
-    public void addScore()
-    {
-        score++;
     }
 }

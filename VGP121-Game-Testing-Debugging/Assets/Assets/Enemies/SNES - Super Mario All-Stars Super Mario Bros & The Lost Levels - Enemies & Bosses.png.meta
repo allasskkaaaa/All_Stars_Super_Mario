@@ -939,8 +939,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies
-        & Bosses_38
+      name: Koopa_Die
       rect:
         serializedVersion: 2
         x: 171
@@ -5594,6 +5593,7 @@ TextureImporter:
       Koopa_2: 342632834
       Koopa_3: -1543119798
       Koopa_4: -1103077795
+      Koopa_Die: -2003806688
       PirhannaDown_1: -1056087039
       PirhannaDown_2: 21334603
       PirhannaUp_1: -721438825
@@ -5772,7 +5772,6 @@ TextureImporter:
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_35: -472719435
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_36: -1713496425
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_37: -1086026863
-      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_38: -2003806688
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_39: -1297964742
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_4: -1561008175
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Enemies & Bosses_40: 398450285

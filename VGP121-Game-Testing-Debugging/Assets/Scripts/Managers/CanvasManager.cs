@@ -26,6 +26,7 @@ public class CanvasManager : MonoBehaviour
 
     [Header("Text")]
     public TMP_Text livesText;
+    public TMP_Text scoreText;
     public TMP_Text masterVolSliderText;
     public TMP_Text musicVolSliderText;
     public TMP_Text sfxVolSliderText;
@@ -81,6 +82,12 @@ public class CanvasManager : MonoBehaviour
             livesText.text = $"Lives: {GameManager.Instance.lives}";
         }
 
+        if (scoreText)
+        {
+            GameManager.Instance.OnLifeValueChange += OnScoreValueChanged;
+            scoreText.text = $"Score: {GameManager.Instance.score}";
+        }
+
     }
 
     void SetupSliderInfo(Slider mySlider, TMP_Text sliderText, string parameterName)
@@ -108,6 +115,12 @@ public class CanvasManager : MonoBehaviour
     {
         if (livesText)
             livesText.text = $"Lives: {value}";
+    }
+
+    public void OnScoreValueChanged(int value)
+    {
+        if (scoreText)
+            scoreText.text = $"Score: {value}";
     }
 
     void SetMenus(GameObject menuToActivate, GameObject menuToDeactivate)
@@ -146,7 +159,7 @@ public class CanvasManager : MonoBehaviour
             }
             else
             {
-                pauseMenu.SetActive(true);
+                pauseMenu.SetActive(false);
                 Time.timeScale = 1f;
             }
         }

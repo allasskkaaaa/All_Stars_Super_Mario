@@ -224,7 +224,7 @@ MonoBehaviour:
   projectileSpeed: 0
   spawnPointLeft: {fileID: 1765049901719387465}
   spawnPointRight: {fileID: 6899980371026958225}
-  projectilePrefab: {fileID: 6163929213614520369, guid: 8b52669733bcf104f8634e48b3129d47, type: 3}
+  projectilePrefab: {fileID: 6163929213614520369, guid: 803a3713c25f1b849a44a524faaf353a, type: 3}
 --- !u!1 &2828794977131254851
 GameObject:
   m_ObjectHideFlags: 0
@@ -250,7 +250,7 @@ Transform:
   m_GameObject: {fileID: 2828794977131254851}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.36, y: 0.45, z: 0}
+  m_LocalPosition: {x: -0.415, y: 0.45, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -312,7 +312,7 @@ Transform:
   m_GameObject: {fileID: 6886168842790405115}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.36, y: 0.45, z: 0}
+  m_LocalPosition: {x: 0.415, y: 0.474, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

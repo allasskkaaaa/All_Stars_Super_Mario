@@ -20,7 +20,6 @@ public class GroundPoundBehaviour : StateMachineBehaviour
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         animator.gameObject.GetComponent<Rigidbody2D>().gravityScale = 1;
-        Debug.Log("Exiting State - Spawn some effect");
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

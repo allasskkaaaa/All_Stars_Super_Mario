@@ -688,8 +688,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
-        and Luigi_30
+      name: LMario_GP
       rect:
         serializedVersion: 2
         x: 224
@@ -1870,8 +1869,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario
-        and Luigi_93
+      name: FMario_GP
       rect:
         serializedVersion: 2
         x: 190
@@ -1968,6 +1966,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      FMario_GP: -116048608
       FMario_Idle: -1619130958
       FMario_Walk1: 1717485600
       FMario_Walk2: 803380696
@@ -1977,6 +1976,7 @@ TextureImporter:
       LMario_2: 952272899
       LMario_3: -1338850805
       LMario_Die: 219186595
+      LMario_GP: -875920848
       LMario_Idle: 1623147597
       LMario_Jump: 2074644156
       LMario_Throw1: -1240444650
@@ -2046,7 +2046,6 @@ TextureImporter:
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_22: -723545168
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_23: 199867419
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_24: 1546106620
-      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_30: -875920848
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_31: -542443354
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_32: 1527831432
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_33: -1580011442
@@ -2106,7 +2105,6 @@ TextureImporter:
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_90: -1616383094
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_91: -1668433413
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_92: -1571066560
-      SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_93: -116048608
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_94: -1875816426
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_95: 392733002
       SNES - Super Mario All-Stars Super Mario Bros & The Lost Levels - Mario and Luigi_96: 435842584

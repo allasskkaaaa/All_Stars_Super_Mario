@@ -14,23 +14,23 @@ public class Pickup : MonoBehaviour
 
     [SerializeField] private PickupType type;
     [SerializeField] private int scoreValue = 10; // Add this line to specify the score value for score pickups
-
+    CanvasManager canvasManager;
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
             PlayerController pc = collision.GetComponent<PlayerController>();
-
+            
             switch (type)
             {
                 case PickupType.RedMushroom:
                     pc.mushroomGet = true;
                     break;
                 case PickupType.Score:
-                    //Increase Score
+                    GameManager.Instance.score++;
+                    Debug.Log("Score increased");
                     break;
                 case PickupType.FireFlower:
-                    // Handle FireFlower pickup
                     pc.flowerGet = true;
                     break;
                 case PickupType.Health:

@@ -25,14 +25,16 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     private Animator anim;
+    AudioManager audioManager;
 
-   
+
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
 
         if (speed <= 0)
         {
@@ -97,24 +99,46 @@ public class PlayerController : MonoBehaviour
 
         //Input checks
         if (Input.GetButtonDown("Jump") && isGrounded)
+        {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            audioManager.PlaySFX(audioManager.Jump);
+        }
+            
 
         if (Input.GetButtonDown("Jump") && !isGrounded)
         {
             anim.SetTrigger("Groundpound");
-            rb.gravityScale = 10;
+            IncreaseGravity();
         }
             
         //Check if powerups are available
 
         if (mushroomGet == true)
         {
+            if (anim.GetBool("FireFlower") == true)
+            {
+                anim.SetBool("FireFlower", false);
+            }
             anim.SetBool("RedMushroom", true);
+            GameManager.Instance.lives++;
+        }
+        else
+        {
+            anim.SetBool("RedMushroom", false);
         }
 
         if (flowerGet == true)
         {
+            if (anim.GetBool("RedMushroom") == true)
+            {
+                anim.SetBool("RedMushroom", false);
+            }
             anim.SetBool("FireFlower", true);
+            GameManager.Instance.lives++;
+        }
+        else
+        {
+            anim.SetBool("FireFlower", false);
         }
 
 
