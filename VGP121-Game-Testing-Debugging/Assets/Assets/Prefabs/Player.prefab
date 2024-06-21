@@ -224,7 +224,7 @@ MonoBehaviour:
   projectileSpeed: 0
   spawnPointLeft: {fileID: 1765049901719387465}
   spawnPointRight: {fileID: 6899980371026958225}
-  projectilePrefab: {fileID: 0}
+  projectilePrefab: {fileID: 6163929213614520369, guid: 8b52669733bcf104f8634e48b3129d47, type: 3}
 --- !u!1 &2828794977131254851
 GameObject:
   m_ObjectHideFlags: 0

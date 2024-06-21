@@ -2452,10 +2452,10 @@ MonoBehaviour:
   audioMixer: {fileID: 0}
   playButton: {fileID: 0}
   settingsButton: {fileID: 0}
-  quitButton: {fileID: 0}
+  quitButton: {fileID: 1753862871}
   backButton: {fileID: 0}
   resumeButton: {fileID: 0}
-  returnToMenu: {fileID: 0}
+  returnToMenu: {fileID: 936793555}
   mainMenu: {fileID: 0}
   pauseMenu: {fileID: 1677259039}
   settingsMenu: {fileID: 0}
@@ -3071,6 +3071,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8b52669733bcf104f8634e48b3129d47, type: 3}
+--- !u!114 &936793555 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5704415531100288232, guid: 527d875d80cccb7499d3ee819903b20d, type: 3}
+  m_PrefabInstance: {fileID: 5695140945680424676}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &968344640
 GameObject:
   m_ObjectHideFlags: 0
@@ -9240,6 +9251,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.7952728, y: 0.8003367}
   m_EdgeRadius: 0
+--- !u!114 &1753862871 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7576839869252849942, guid: 527d875d80cccb7499d3ee819903b20d, type: 3}
+  m_PrefabInstance: {fileID: 5695140945680424676}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1775424969
 GameObject:
   m_ObjectHideFlags: 0
@@ -10248,6 +10270,10 @@ PrefabInstance:
     - target: {fileID: 4405873384288964821, guid: 527d875d80cccb7499d3ee819903b20d, type: 3}
       propertyPath: m_Name
       value: PauseMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 4405873384288964821, guid: 527d875d80cccb7499d3ee819903b20d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5704415531100288232, guid: 527d875d80cccb7499d3ee819903b20d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target

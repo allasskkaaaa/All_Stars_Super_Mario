@@ -140,11 +140,14 @@ public class CanvasManager : MonoBehaviour
             //hints for the lab
             if (pauseMenu.activeSelf)
             {
-                //do something to pause
+                pauseMenu.SetActive(true);
+                Time.timeScale = 0f;
+                Debug.Log("Pause");
             }
             else
             {
-                //do something else
+                pauseMenu.SetActive(true);
+                Time.timeScale = 1f;
             }
         }
     }
