@@ -20,4 +20,13 @@ public class MonsterDamage : MonoBehaviour
             GameManager.Instance.lives -= damage;
         }
     }
+
+    private void OnTriggerEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            audioManager.PlaySFX(audioManager.damage);
+            GameManager.Instance.lives -= damage;
+        }
+    }
 }
