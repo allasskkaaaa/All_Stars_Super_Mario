@@ -1498,7 +1498,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fire_Attack1
+      name: FMario_Jump
       rect:
         serializedVersion: 2
         x: 120
@@ -1968,9 +1968,9 @@ TextureImporter:
     nameFileIdTable:
       FMario_GP: -116048608
       FMario_Idle: -1619130958
+      FMario_Jump: -901135188
       FMario_Walk1: 1717485600
       FMario_Walk2: 803380696
-      Fire_Attack1: -901135188
       Fire_Attack2: -1394840878
       Fire_Attack3: -202970298
       LMario_2: 952272899

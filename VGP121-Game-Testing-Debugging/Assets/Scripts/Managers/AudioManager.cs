@@ -15,6 +15,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip Fire;
     public AudioClip Jump;
     public AudioClip Coin;
+    public AudioClip PowerUp;
 
 
     public void PlaySFX(AudioClip clip)

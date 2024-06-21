@@ -10,11 +10,13 @@ public class Shoot : MonoBehaviour
     public Transform spawnPointLeft;
     public Transform spawnPointRight;
     public Projectiles projectilePrefab;
+    AudioManager audioManager;
 
     // Start is called before the first frame update
     void Start()
     {
         sr = GetComponent<SpriteRenderer>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
 
         if (projectileSpeed <= 0) projectileSpeed = 7.0f;
 
@@ -24,6 +26,7 @@ public class Shoot : MonoBehaviour
 
     public void Fire()
     {
+        audioManager.PlaySFX(audioManager.Fire);
         if (!sr.flipX)
         {
             Projectiles curProjectile = Instantiate(projectilePrefab, spawnPointRight.position, spawnPointRight.rotation);

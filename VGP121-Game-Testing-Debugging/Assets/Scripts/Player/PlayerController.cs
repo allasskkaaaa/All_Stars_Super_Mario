@@ -35,7 +35,6 @@ public class PlayerController : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
-        anim.SetBool("isSmall", true);
 
         if (speed <= 0)
         {
@@ -116,7 +115,6 @@ public class PlayerController : MonoBehaviour
 
         if (mushroomGet == true)
         {
-            anim.SetBool("isSmall", false);
             anim.SetBool("RedMushroom", true);
             GameManager.Instance.lives++;
         }
@@ -127,7 +125,6 @@ public class PlayerController : MonoBehaviour
 
         if (flowerGet == true)
         {
-            anim.SetBool("isSmall", false);
             anim.SetBool("FireFlower", true);
             GameManager.Instance.lives++;
         }

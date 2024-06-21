@@ -26,7 +26,7 @@ public class MonsterDamage : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            audioManager.PlaySFX(audioManager.damage);
+            audioManager.PlaySFX(audioManager.EnemyDeath);
             GameManager.Instance.lives -= damage;
             GameManager.Instance.PlayerInstance.cleanse();
         }

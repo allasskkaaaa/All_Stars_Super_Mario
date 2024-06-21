@@ -26,6 +26,7 @@ public class Pickup : MonoBehaviour
             switch (type)
             {
                 case PickupType.RedMushroom:
+                    audioManager.PlaySFX(audioManager.PowerUp);
                     pc.mushroomGet = true;
                     break;
                 case PickupType.Score:
@@ -34,6 +35,7 @@ public class Pickup : MonoBehaviour
                     Debug.Log("Score increased");
                     break;
                 case PickupType.FireFlower:
+                    audioManager.PlaySFX(audioManager.PowerUp);
                     pc.flowerGet = true;
                     break;
                 case PickupType.Health:
