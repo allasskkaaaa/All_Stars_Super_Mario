@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1520240759089685916}
-  - component: {fileID: 2417376838177239570}
+  - component: {fileID: 4817722845245932642}
   m_Layer: 0
   m_Name: Pirhanna
   m_TagString: Weak Point
@@ -26,14 +26,14 @@ Transform:
   m_GameObject: {fileID: 2791879604248876170}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 17.59, y: -1.06, z: 0}
+  m_LocalPosition: {x: 17.56, y: -1.05, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3189909375062490388}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2417376838177239570
+--- !u!114 &4817722845245932642
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -42,15 +42,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 2791879604248876170}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cdbfbea13cfde644bbec6cf8611ead82, type: 3}
+  m_Script: {fileID: 11500000, guid: 6af49f50f89f13b469184d6e62b39965, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  patrolPoints:
-  - {fileID: 0}
-  - {fileID: 0}
-  moveSpeed: 1
-  patrolDestination: 1
-  pause: 0
+  moveSpeed: 2
+  pause: 1
+  moveDistance: 2
 --- !u!1 &9030511838679525400
 GameObject:
   m_ObjectHideFlags: 0
@@ -64,7 +61,7 @@ GameObject:
   - component: {fileID: 7802106736744335164}
   - component: {fileID: 7310495742583076125}
   - component: {fileID: 8431105168268056832}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PirhannaSprite
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -188,10 +185,10 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.4}
+  m_Offset: {x: 0, y: 0.6108671}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -202,7 +199,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.8, y: 0.8}
+  m_Size: {x: 0.8, y: 1.2217342}
   m_EdgeRadius: 0
 --- !u!114 &8431105168268056832
 MonoBehaviour:

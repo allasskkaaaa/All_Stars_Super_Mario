@@ -42,7 +42,7 @@ public class GameManager : MonoBehaviour
     }
 
 
-    [SerializeField] private int maxLives = 3;
+    [SerializeField] private int maxLives = 4;
     [SerializeField] private PlayerController playerPrefab;
 
     [HideInInspector] public PlayerController PlayerInstance => _playerinstance;
@@ -66,11 +66,7 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
 
-        if (maxLives <= 0)
-        {
-            maxLives = 3;
-        }
-        lives = maxLives;
+        lives = 3;
     }
 
     public void LoadScene(string SceneName)
@@ -87,8 +83,6 @@ public class GameManager : MonoBehaviour
     private void Respawn()
     {
         _playerinstance.transform.position = currentCheckpoint.position;
-        _playerinstance.flowerGet = false;
-        _playerinstance.mushroomGet = false;
         Debug.Log("Respawn");
     }
 

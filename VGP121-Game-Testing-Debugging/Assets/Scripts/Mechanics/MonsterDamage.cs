@@ -18,15 +18,17 @@ public class MonsterDamage : MonoBehaviour
         {
             audioManager.PlaySFX(audioManager.damage);
             GameManager.Instance.lives -= damage;
+            GameManager.Instance.PlayerInstance.cleanse();
         }
     }
 
-    private void OnTriggerEnter2D(Collision2D collision)
+    void OnTriggerEnter2D(Collider2D other)
     {
-        if (collision.gameObject.tag == "Player")
+        if (other.CompareTag("Player"))
         {
             audioManager.PlaySFX(audioManager.damage);
             GameManager.Instance.lives -= damage;
+            GameManager.Instance.PlayerInstance.cleanse();
         }
     }
 }

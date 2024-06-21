@@ -11,6 +11,8 @@ TagManager:
   - Enemy
   - Audio
   - Environment
+  - PlayerProj
+  - EnemyProj
   layers:
   - Default
   - TransparentFX

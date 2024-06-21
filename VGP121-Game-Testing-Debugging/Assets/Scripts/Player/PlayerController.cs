@@ -35,6 +35,7 @@ public class PlayerController : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+        anim.SetBool("isSmall", true);
 
         if (speed <= 0)
         {
@@ -103,22 +104,19 @@ public class PlayerController : MonoBehaviour
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             audioManager.PlaySFX(audioManager.Jump);
         }
-            
+
 
         if (Input.GetButtonDown("Jump") && !isGrounded)
         {
             anim.SetTrigger("Groundpound");
             IncreaseGravity();
         }
-            
+
         //Check if powerups are available
 
         if (mushroomGet == true)
         {
-            if (anim.GetBool("FireFlower") == true)
-            {
-                anim.SetBool("FireFlower", false);
-            }
+            anim.SetBool("isSmall", false);
             anim.SetBool("RedMushroom", true);
             GameManager.Instance.lives++;
         }
@@ -129,10 +127,7 @@ public class PlayerController : MonoBehaviour
 
         if (flowerGet == true)
         {
-            if (anim.GetBool("RedMushroom") == true)
-            {
-                anim.SetBool("RedMushroom", false);
-            }
+            anim.SetBool("isSmall", false);
             anim.SetBool("FireFlower", true);
             GameManager.Instance.lives++;
         }
@@ -157,13 +152,13 @@ public class PlayerController : MonoBehaviour
         rb.gravityScale = 10;
     }
 
-    private void GameOver()
+    public void cleanse()
     {
-        Debug.Log("GameOver goes here");
-    }
-
-    private void Respawn()
-    {
-        Debug.Log("Respawn goes here");
+        flowerGet = false;
+        mushroomGet = false;
+        anim.SetBool("RedMushroom", false);
+        anim.SetBool("FireFlower", false);
+        anim.SetBool("isSmall", true);
+        Debug.Log("Cleansed of all powerups");
     }
 }

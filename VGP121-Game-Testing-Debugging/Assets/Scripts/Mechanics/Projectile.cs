@@ -6,10 +6,25 @@ public class Projectiles : MonoBehaviour
 {
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (!collision.gameObject.CompareTag("Player") && !collision.gameObject.CompareTag("PowerUp") && !collision.gameObject.CompareTag("Collectible") && !collision.gameObject.CompareTag("Environment"))
+        if (collision.gameObject.CompareTag("Ground"))
+        {
             Destroy(gameObject);
+            Debug.Log("Destroying Projectile");
+        }
 
-        
+        if (collision.gameObject.CompareTag("Player") || collision.gameObject.CompareTag("Weak Point") && gameObject.CompareTag("EnemyProj"))
+        { 
+            Destroy(gameObject);
+            Debug.Log("Destroying Projectile");
+        }
+
+
+        if (collision.gameObject.CompareTag("Enemy") && gameObject.CompareTag("PlayerProj"))
+        {
+            Destroy(collision.gameObject);
+            Destroy(gameObject);
+        }
+
     }
     public float lifetime;
 
